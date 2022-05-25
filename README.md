@@ -1,4 +1,4 @@
-Hey folks! 👋
+<h3>Hey folks! 👋<h3/>
 
 :department_store: I'm currently working on <a href="https://compass.uol/">Compass.UOL</a> as .NET developer and chatbot developer.
 <br />
