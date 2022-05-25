@@ -2,7 +2,7 @@
 
 :department_store: I'm currently working on <a href="https://compass.uol/">Compass.UOL</a> as .NET developer and chatbot developer.
 <br />
-👀 self-taught and passionate about how things work
+👀 Self-taught and passionate about how things work
 <br />
 :speech_balloon: Ask me about anything <a href="https://github.com/arthurmeirelessm/arthurmeirelessm/issues">here.</a>
 <br />
