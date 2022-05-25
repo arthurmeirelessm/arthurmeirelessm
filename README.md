@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=arthurmeirelessm&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
-<a href="mailto:lucasdarosa.ti@gmail.com">
+<a href="mailto:arthurmsesjdfdn@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
